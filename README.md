@@ -1,21 +1,38 @@
-# coec444709762d053cdec0ca6
+<h1 align="center"><b>Lead Tracker Chrome Extension</b></h1>
 
-Quick start:
+Lead Tracker Chrome Extension is a tool for capturing, organizing, and monitoring leads in the Chrome browser.
 
-```
-$ npm install
-$ npm start
-````
+## Installation
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+1. Clone or download the repository.
+2. Open Chrome and go to `chrome://extensions`.
+3. Enable **Developer mode**.
+4. Click **Load unpacked** and select the extension folder.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Usage
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. Visit a website.
+2. Click the extension icon in the toolbar.
+3. Fill in lead information and click **Save**.
+4. Access saved leads from the extension icon.
+5. Track, update, or delete leads.
 
-Happy Coding!
+## Contributing
+
+1. Fork and clone the repository.
+2. Create a new branch.
+3. Make changes, test thoroughly.
+4. Commit and push to your fork.
+5. Submit a pull request.
+
+## Issues and Support
+
+For issues or questions, open an issue on GitHub.
+
+## License
+
+Lead Tracker Chrome Extension is released under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+This extension uses open-source libraries/frameworks.
